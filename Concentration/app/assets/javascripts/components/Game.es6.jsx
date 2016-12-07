@@ -1,5 +1,7 @@
 class Game extends React.Component {
   render() {
-    return()
+    return(
+      <Board />
+      )
   }
 }
